@@ -3,6 +3,7 @@ __pycache__/
 data/
 
 pic/
-
-
+shuli_pic/
+shuli_pic_2/
+shuli.py
 .vscode/
